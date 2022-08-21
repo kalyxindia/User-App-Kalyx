@@ -1,0 +1,4 @@
+#Mon Jul 25 13:02:41 IST 2022
+base.0=C\:\\Users\\irjdmf.INTERNAL\\Desktop\\flutter\\viki\\appone\\userapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

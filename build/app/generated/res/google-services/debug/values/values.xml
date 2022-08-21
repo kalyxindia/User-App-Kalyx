@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1055694831263-8hkim4p1ov6nadk1gve2bnnq5f8990b4.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://taxi-demo-10241-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1055694831263</string>
+    <string name="google_api_key" translatable="false">AIzaSyBxKbBbVzuK13hvZNTnnfaaJegvfXzG5kE</string>
+    <string name="google_app_id" translatable="false">1:1055694831263:android:322abe149fdbef2fa52caa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxKbBbVzuK13hvZNTnnfaaJegvfXzG5kE</string>
+    <string name="google_storage_bucket" translatable="false">taxi-demo-10241.appspot.com</string>
+    <string name="project_id" translatable="false">taxi-demo-10241</string>
+</resources>
